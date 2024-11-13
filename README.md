@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/dudwns0213"
+    width="600"
+    height="120"
+  />
+</a>
+  
 <!--
 **dudwns0213/dudwns0213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
